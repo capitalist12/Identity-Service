@@ -1,1 +1,7 @@
-# Identity-Service
+- # Identity-Service
+  - **Authors:**
+    - Đỗ Văn Thắng -  BE
+     - **Project:** A web app for users to buy cosmetics, such as: select cosmetic, payment,...
+  - **Techs:** Spring Boot, JPA, Spring Security, JWT, MySQL 
+  - **Structure:** 
+    - Back-End:  Using MVC Structure, MySQL
